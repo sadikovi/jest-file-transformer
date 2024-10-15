@@ -1,0 +1,20 @@
+{
+  "name": "jest-file-transformer",
+  "description": "Jest file transformer for unsupported formats",
+  "version": "0.1.0",
+  "author": "sadikovi <ivan.sadikov@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "file",
+    "transform"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sadikovi/jest-file-transformer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sadikovi/jest-file-transformer/issues"
+  },
+  "main": "index.js"
+}
